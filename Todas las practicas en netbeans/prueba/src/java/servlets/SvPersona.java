@@ -73,5 +73,4 @@ public class SvPersona extends HttpServlet {
     public void setControl(Controladora control) {
         this.control = control;
     }
-
 }
